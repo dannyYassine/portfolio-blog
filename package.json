@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-blog",
+  "version": "1.0.0",
+  "description": "Website about myself and projects I am working on",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dannyYassine@github.com/dannyYassine/portfolio-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyYassine/portfolio-blog/issues"
+  },
+  "homepage": "https://github.com/dannyYassine/portfolio-blog#readme",
+  "dependencies": {
+    "body-parser": "",
+    "express": "",
+    "forever": "^0.15.3",
+    "nodemon": "^1.11.0",
+    "nunjucks": "^3.0.1"
+  }
+}
