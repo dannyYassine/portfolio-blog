@@ -1,5 +1,6 @@
 # IDE
 .idea
+node_modules
 
 # Logs
 logs
